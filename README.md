@@ -1,4 +1,4 @@
-# ¡Hola! Soy Eduardo Andrés Elgueta Vera 👋
+# ¡Hola! Soy Eduardo Elgueta 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-Eduardo%20Elgueta-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eduardoelguetavera) [![GitHub Badge](https://img.shields.io/badge/-apololifter-181717?style=flat-square&logo=github)](https://github.com/apololifter)
 
