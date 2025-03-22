@@ -48,10 +48,5 @@ Soy **Estudiante de Ingeniería en Informática** en INACAP y tengo una sólida 
 
 ---
 
-> *Extracto del CV de Eduardo Elgueta*  
-> :contentReference[oaicite:0]{index=0}&#8203;:contentReference[oaicite:1]{index=1}
-
----
-
 _¡Gracias por visitar mi perfil!_  
 _Si te interesa saber más o colaborar en algún proyecto, no dudes en contactarme._
