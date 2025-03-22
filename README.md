@@ -17,7 +17,6 @@ Soy **Estudiante de Ingeniería en Informática** en INACAP y tengo una sólida 
 - **Redes y Protocolos:** Conocimientos básicos en redes y protocolos esenciales.
 - **Scripting y Programación:** Experiencia en scripting y programación básica en diversos lenguajes.
 - **Bases de Datos:** Conocimientos en bases de datos *SQL* y *NoSQL (MongoDB)*.
-- **Desarrollo Front-End:** Experiencia con *JavaScript*, *Node.js* y *React*.
 - **Certificación eJPTv2:** Formación en pruebas de penetración que abarca técnicas de reconocimiento, análisis de vulnerabilidades, explotación y post-explotación, desarrollando la capacidad de identificar y mitigar riesgos en entornos reales.
 - **Web Fundamentals (TryHackMe):** Habilidades en la seguridad de aplicaciones web, incluyendo la identificación de vulnerabilidades comunes (inyección SQL, XSS, CSRF), análisis de configuraciones y prácticas de desarrollo seguro.
 
