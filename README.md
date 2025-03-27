@@ -35,7 +35,7 @@ Soy **Estudiante de Ingeniería en Informática** en INACAP y tengo una sólida 
   - **Web Fundamentals** de TryHackMe  
   - Próximamente: **eWPT**
 
-- **Idiomas:** Inglés – Nivel Medio (no conversacional)
+- **Idiomas:** Inglés – Nivel de Lectura de documentación (no conversacional)
 - **Informática:** Conocimientos avanzados en entornos operativos Windows y nivel semi administrador en Linux.
 
 ---
