@@ -6,13 +6,18 @@
 
 ## 👨‍💻 Perfil Profesional
 
-Soy **Estudiante de Ingeniería en Informática** en INACAP y tengo una sólida formación autodidacta en **ciberseguridad**. Actualmente, me especializo en esta área a través de plataformas prácticas como **HackTheBox** y **TryHackMe**, y cuento con la certificación **eJPTv2**. Además, he completado el curso de **Web Fundamentals** en TryHackMe y estoy en proceso de obtener la **eWPT**. Mi enfoque está orientado a la solución de problemas complejos en el ámbito de la seguridad informática.
+Soy **Estudiante de Ingeniería en Informática** en INACAP y tengo una sólida formación autodidacta en **ciberseguridad**.
+
+**Experiencia Reciente:** En mi último rol profesional, trabajé activamente con tecnologías **SIEM (Security Information and Event Management)**, gestionando y analizando eventos de seguridad para la detección y respuesta a incidentes. Esta experiencia incluye el manejo de herramientas específicas como **Sophos**, **UTMStack** y la plataforma de gestión de incidentes **TheHive**.
+
+Actualmente, me especializo en ciberseguridad a través de plataformas prácticas como **HackTheBox** y **TryHackMe**, y cuento con la certificación **eJPTv2**. Además, he completado el curso de **Web Fundamentals** en TryHackMe y estoy en proceso de obtener la **eWPT**. Mi enfoque está orientado a la solución de problemas complejos en el ámbito de la seguridad informática.
 
 ---
 
 ## 🛠️ Habilidades
 
 - **Sistemas Operativos y Herramientas:** Manejo avanzado de *Kali Linux* y sus herramientas especializadas en seguridad.
+- **Gestión de Seguridad (SIEM/IR):** Experiencia práctica con tecnologías **SIEM** para el análisis y monitoreo de eventos de seguridad. Conocimiento en plataformas como **Sophos**, **UTMStack** y gestión de incidentes con **TheHive**.
 - **Seguridad y Análisis de Vulnerabilidades:** Identificación, análisis y evaluación de vulnerabilidades en diversos entornos.
 - **Redes y Protocolos:** Conocimientos básicos en redes y protocolos esenciales.
 - **Scripting y Programación:** Experiencia en scripting y programación básica en diversos lenguajes.
@@ -30,10 +35,10 @@ Soy **Estudiante de Ingeniería en Informática** en INACAP y tengo una sólida 
 
 ## 📚 Formación & Otros Datos
 
-- **Certificaciones y Cursos:**  
-  - **eJPTv2** (Certificado)  
-  - **Web Fundamentals** de TryHackMe  
-  - Próximamente: **eWPT**
+- **Certificaciones y Cursos:**  
+  - **eJPTv2** (Certificado)  
+  - **Web Fundamentals** de TryHackMe  
+  - Próximamente: **eWPT**
 
 - **Idiomas:** Inglés – Nivel de Lectura de documentación (no conversacional)
 - **Informática:** Conocimientos avanzados en entornos operativos Windows y nivel semi administrador en Linux.
@@ -47,5 +52,5 @@ Soy **Estudiante de Ingeniería en Informática** en INACAP y tengo una sólida 
 
 ---
 
-_¡Gracias por visitar mi perfil!_  
+_¡Gracias por visitar mi perfil!_  
 _Si te interesa saber más o colaborar en algún proyecto, no dudes en contactarme._
