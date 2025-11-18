@@ -1,6 +1,6 @@
 # ¡Hola! Soy Eduardo Elgueta 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Eduardo%20Elgueta-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eduardoelguetavera) [![GitHub Badge](https://img.shields.io/badge/-apololifter-181717?style=flat-square&logo=github)](https://github.com/apololifter)
+[![Linkedin Badge](https://img.shields.io/badge/-Eduardo%20Elgueta-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eduardoelguetavera) [![GitHub Badge](https://img.shields.io/badge/-apololifter-181717?style=flat-square&logo=github)](https://github.com/apololifter) [![Page Badge] (https://w7.pngwing.com/pngs/412/921/png-transparent-computer-icons-page-icon-design-brief-angle-text-rectangle.png)](https://agent-691ccc8a322ad4--remarkable-stardust-a7213c.netlify.app/cv.html)]
 
 ---
 
