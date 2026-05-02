@@ -4,47 +4,58 @@
 [![GitHub Badge](https://img.shields.io/badge/-apololifter-181717?style=flat-square&logo=github)](https://github.com/apololifter) 
 [![Web Badge](https://img.shields.io/badge/-Portfolio-30a230?style=flat-square&logo=appveyor&logoColor=white)](https://agent-691ccc8a322ad4--remarkable-stardust-a7213c.netlify.app/cv.html)
 
-
 ---
 
 ## 👨‍💻 Perfil Profesional
 
-Soy **Estudiante de Ingeniería en Informática** en INACAP y tengo una sólida formación autodidacta en **ciberseguridad**.
+Soy **Estudiante de Ingeniería en Informática** en INACAP, **Desarrollador Web Full-Stack**, **Consultor de Ciberseguridad** y un apasionado **CTF Player**. 
 
-**Experiencia Reciente:** En mi último rol profesional, trabajé activamente con tecnologías **SIEM (Security Information and Event Management)**, gestionando y analizando eventos de seguridad para la detección y respuesta a incidentes. Esta experiencia incluye el manejo de herramientas específicas como **Sophos**, **UTMStack** y la plataforma de gestión de incidentes **TheHive**.
-
-Actualmente, me especializo en ciberseguridad a través de plataformas prácticas como **HackTheBox** y **TryHackMe**, y cuento con la certificación **eJPTv2**. Además, he completado el curso de **Web Fundamentals** en TryHackMe y estoy en proceso de obtener la **eWPT**. Mi enfoque está orientado a la solución de problemas complejos en el ámbito de la seguridad informática.
+Mi perfil combina la construcción de sitios web modernos y escalables con un enfoque defensivo y ofensivo (Red/Blue Team) para proteger infraestructuras críticas. A través de la resolución constante de laboratorios en plataformas como **HackTheBox** y **TryHackMe**, aplico la metodología de atacante para asegurar entornos empresariales e implementaciones web.
 
 ---
 
-## 🛠️ Habilidades
+## 🌐 Desarrollo Web y WordPress
 
-- **Sistemas Operativos y Herramientas:** Manejo avanzado de *Kali Linux* y sus herramientas especializadas en seguridad.
-- **Gestión de Seguridad (SIEM/IR):** Experiencia práctica con tecnologías **SIEM** para el análisis y monitoreo de eventos de seguridad. Conocimiento en plataformas como **Sophos**, **UTMStack** y gestión de incidentes con **TheHive**.
-- **Seguridad y Análisis de Vulnerabilidades:** Identificación, análisis y evaluación de vulnerabilidades en diversos entornos.
-- **Redes y Protocolos:** Conocimientos básicos en redes y protocolos esenciales.
-- **Scripting y Programación:** Experiencia en scripting y programación básica en diversos lenguajes.
-- **Certificación eJPTv2:** Formación en pruebas de penetración que abarca técnicas de reconocimiento, análisis de vulnerabilidades, explotación y post-explotación, desarrollando la capacidad de identificar y mitigar riesgos en entornos reales.
-- **Web Fundamentals (TryHackMe):** Habilidades en la seguridad de aplicaciones web, incluyendo la identificación de vulnerabilidades comunes (inyección SQL, XSS, CSRF), análisis de configuraciones y prácticas de desarrollo seguro.
+Actualmente trabajo como desarrollador independiente, donde **administro plataformas WordPress** y **creo páginas web a medida**. Me especializo en:
+- **E-commerce & WordPress Avanzado:** Personalización profunda de flujos de pago (WooCommerce), creación de lógicas de reserva seguras (*'VIP Tunnels'* aislados) y desarrollo de funcionalidades a medida mediante PHP (Hooks y manipulación de APIs).
+- **Diseño UI/UX y Frontend:** Creación de interfaces de alto impacto visual con estéticas modernas (*Glassmorphism*), integración de animaciones dinámicas y diseño completamente responsivo utilizando HTML5, CSS3, Tailwind CSS y JavaScript.
+- **Experiencias Web Inmersivas:** Integración y optimización de modelos 3D interactivos en la web para la exhibición de productos complejos.
+
+---
+
+## 🛡️ Ciberseguridad e Infraestructura
+
+Poseo formación tanto autodidacta como profesional en la administración de incidentes y *penetration testing*:
+- **CTF Player Activo:** Resolución de retos de explotación, escalada de privilegios y análisis de vulnerabilidades en HTB y THM.
+- **Gestión de Seguridad (SIEM/IR):** Experiencia práctica analizando eventos de seguridad, detección y respuesta a incidentes utilizando **Sophos**, **UTMStack**, **QRadar**, **Lumu** y la plataforma de gestión **TheHive**.
+- **Pruebas de Penetración:** Identificación, análisis y evaluación de vulnerabilidades en diversos entornos (Certificado eJPTv2). Manejo avanzado de Kali Linux.
+
+---
+
+## 💼 Experiencia Destacada
+
+- 💼 **Desarrollador Web Full-Stack & Consultor de Ciberseguridad** | *Independiente (Mar 2026 - Presente)*  
+- 🛡️ **Analista de Ciberseguridad** | *Compunet Group (Jul 2025 - Oct 2025)*  
+- 🗡️ **Penetration Tester - L1 Full Stack** | *Security Advisor (Ago 2024 - Jun 2025)*  
+- 📦 **Operador de Almacén** | *Walmart Chile (Dic 2021 - Ago 2024)*
+
+---
+
+## 🎓 Certificaciones y Cursos
+
+- 🏆 **eJPTv2** (eLearnSecurity Junior Penetration Tester) - *INE*
+- 🌐 **Web Fundamentals** - *TryHackMe*
+- 🛡️ **Sophos Central Endpoint Protection Certified Engineer** - *Sophos*
+- 🔐 **Vicarius Certification**
+- ⏳ *Próximamente:* **eWPT**
 
 ---
 
 ## 🚀 Proyectos Destacados
 
 - **[Automatización de Escalada de Privilegios](https://github.com/apololifter/):** Herramienta para la detección de posibles vectores de escalada.
-- **Scripts Automatizados de Escaneo y Análisis de Redes:** Conjunto de scripts que incluyen escaneo de puertos, filtrado, extracción de direcciones IP y resolución DNS.
-
----
-
-## 📚 Formación & Otros Datos
-
-- **Certificaciones y Cursos:**  
-  - **eJPTv2** (Certificado)  
-  - **Web Fundamentals** de TryHackMe  
-  - Próximamente: **eWPT**
-
-- **Idiomas:** Inglés – Nivel de Lectura de documentación (no conversacional)
-- **Informática:** Conocimientos avanzados en entornos operativos Windows y nivel semi administrador en Linux.
+- **Scripts Automatizados de Escaneo:** Conjunto de scripts (OSINT, escaneo de puertos, filtrado, extracción de direcciones IP y resolución DNS).
+- **Desarrollo Web en 3D & E-commerce:** Sitios modernos diseñados para alto impacto y flujos de reserva customizados.
 
 ---
 
@@ -55,5 +66,5 @@ Actualmente, me especializo en ciberseguridad a través de plataformas práctica
 
 ---
 
-_¡Gracias por visitar mi perfil!_  
-_Si te interesa saber más o colaborar en algún proyecto, no dudes en contactarme._
+_¡Gracias por visitar mi perfil!_  
+_Si te interesa saber más o colaborar en algún proyecto de seguridad, desarrollo web o jugar un CTF en equipo, no dudes en contactarme._
