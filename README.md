@@ -37,7 +37,7 @@ Poseo formación tanto autodidacta como profesional en la administración de inc
 - 💼 **Desarrollador Web Full-Stack & Consultor de Ciberseguridad** | *Independiente (Mar 2026 - Presente)*  
 - 🛡️ **Analista de Ciberseguridad** | *Compunet Group (Jul 2025 - Oct 2025)*  
 - 🗡️ **Penetration Tester - L1 Full Stack** | *Security Advisor (Ago 2024 - Jun 2025)*  
-- 📦 **Operador de Almacén** | *Walmart Chile (Dic 2021 - Ago 2024)*
+
 
 ---
 
@@ -47,7 +47,7 @@ Poseo formación tanto autodidacta como profesional en la administración de inc
 - 🌐 **Web Fundamentals** - *TryHackMe*
 - 🛡️ **Sophos Central Endpoint Protection Certified Engineer** - *Sophos*
 - 🔐 **Vicarius Certification**
-- ⏳ *Próximamente:* **eWPT**
+- ⏳ *Próximamente:* **CAPE - HTB**
 
 ---
 
